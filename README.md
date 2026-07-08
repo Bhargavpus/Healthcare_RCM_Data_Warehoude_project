@@ -14,15 +14,9 @@
 * `gold.fact_transactions` — grain: one row per charge transaction
 * `gold.fact_claims` — grain: one row per insurance claim
 
-## 2. Prerequisites
 
-* SQL Server 2017+ (Developer/Express/Standard)
-* `sqlcmd` or SSMS / Azure Data Studio
-* The `data/` folder copied somewhere the **SQL Server service account** can read (BULK INSERT runs server-side)
 
-##
-
-## 4. KPI views (`sql/04_kpis/01_revenue_kpis.sql`)
+## 2. KPI views (`sql/04_kpis/01_revenue_kpis.sql`)
 
 | View | Answers |
 | --- | --- |

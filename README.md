@@ -28,5 +28,4 @@
 | `gold.vw_claims_ar_aging` | Open claim balance, bucketed 0-30/31-60/61-90/91-120/120+ days |
 | `gold.vw_patient_demographics` | Patient counts by gender & age band |
 
-[]
 
